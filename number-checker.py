@@ -14,4 +14,4 @@ if user_num % 2 == 0:
     print("Even number")
 else:
     # If remainder is not 0, the number is odd
-    print("Odd number")
+    print("Odd number")  
